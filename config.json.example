@@ -1,0 +1,8 @@
+{
+  // Minimum composite score (0–100) for a match verdict.
+  // Production value was 70 with a ±5 fallback band hitting the external API.
+  "threshold": 72,
+
+  // Show per-algorithm score breakdown after each comparison.
+  "showAlgoBreakdown": true
+}
