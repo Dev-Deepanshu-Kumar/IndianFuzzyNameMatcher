@@ -1,4 +1,4 @@
-namespace PanNameValidator;
+namespace IndianFuzzyNameMatcher;
 
 // ─────────────────────────────────────────────────────────────────────────────
 //  ConsoleUI

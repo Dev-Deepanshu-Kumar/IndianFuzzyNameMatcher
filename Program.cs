@@ -1,7 +1,7 @@
-using PanNameValidator;
+using IndianFuzzyNameMatcher;
 
 // ─────────────────────────────────────────────────────────────────────────────
-//  PAN Name Validator — Interactive Console
+//  IndianFuzzyNameMatcher — Interactive Console
 //
 //  Configuration (in order of precedence):
 //    1. Defaults in ValidatorConfig.cs

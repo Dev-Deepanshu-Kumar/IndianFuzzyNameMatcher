@@ -3,7 +3,7 @@
 
 using System.Text.RegularExpressions;
 
-namespace PanNameValidator;
+namespace IndianFuzzyNameMatcher;
 
 // ─────────────────────────────────────────────────────────────────────────────
 //  NameValidator

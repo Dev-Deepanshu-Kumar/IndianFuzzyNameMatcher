@@ -5,8 +5,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <RootNamespace>PanNameValidator</RootNamespace>
-    <AssemblyName>PanNameValidator</AssemblyName>
+    <RootNamespace>IndianFuzzyNameMatcher</RootNamespace>
+    <AssemblyName>IndianFuzzyNameMatcher</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
