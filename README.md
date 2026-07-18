@@ -84,10 +84,24 @@ dotnet run -- --threshold 80 --no-breakdown
 
 ---
 
+## About this repository
+
+> **Note:** This is a portfolio-purpose refactor of the original production implementation.
+>
+> The core matching algorithms (`NameValidator.cs`) are faithful to what was built and deployed.
+> The following were **added for this public version**:
+> - Interactive console UI (`ConsoleUI.cs`) — the production system was a backend service, not a CLI tool
+> - `config.json` / `ValidatorConfig.cs` — production config was managed via internal platform settings
+> - `NameDictionaries.cs` as a standalone file — originally embedded in the service layer
+>
+> The original implementation validated against 30,000+ real records using an Excel-based test harness.
+> That dataset is not included here for obvious reasons.
+
+
 ## Running
 
 ```bash
-cd PanNameValidator
+cd IndianFuzzyNameMatcher
 dotnet run
 ```
 
