@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Deepanshu Kumar. All rights reserved.
+// Portfolio project — viewing permitted, reuse is not. See LICENSE.
+
 using System.Text.RegularExpressions;
 
 namespace PanNameValidator;
