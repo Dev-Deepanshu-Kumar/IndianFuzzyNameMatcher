@@ -1,5 +1,11 @@
 # IndianFuzzyNameMatcher
 
+> ℹ️ **Notice:** This repository is shared for portfolio and demonstration purposes only.
+> Code is protected under an All Rights Reserved license — viewing is permitted, reuse is not.
+> See [LICENSE](./LICENSE) for details.
+
+---
+
 A weighted string-similarity engine for matching Indian names — built to solve a real identity-verification problem in a digital lending platform.
 
 Designed for any use case where Indian name variations need to be reliably matched: KYC, digital lending, banking, insurance, HR, voter records, and more.
